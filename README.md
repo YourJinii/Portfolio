@@ -15,7 +15,7 @@
 ## :pushpin: Contact
 - 이메일: tyj9606@naver.com
 - 휴대폰: 010-3915-9606
-- 깃헙: https://github.com/integerous
+- 깃헙: https://github.com/YuJinTak/Python_Portfolio
 
 </br>
 
