@@ -8,6 +8,7 @@
 - 알파코 데이터엔지니어 부트 캠프 수료
 - 일이이사 식당 알바 1년 3개월
 - <자격증 획득> TOEIC, 빅데이터전문가, 코딩지도사, Microsoft Office PowerPoint 2010, Microsoft Office PowerPoint 2010
+- <보유 기술> Python, RPA, Excel, PowerPoint, Visual Studio, R, JupyterNotebook, Machine Learning
 
 
 </br>
