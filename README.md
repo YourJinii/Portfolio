@@ -30,11 +30,11 @@ Python, RPA, Excel, PowerPoint, Visual Studio, R, JupyterNotebook, Machine Learn
 - 기술 스택:             
 >RPA - UiPath Studio
 >
-
-
-
-
-
+                    
+                    
+                         
+                        
+                             
 ### 2. [디스크 환자 지속 케어]
 - 국내 척추 수술을 받고 있는 환자의 수는 매년 소폭의 증강세를 보이며 증가하고 있다.   
 하지만 2020년 코로나로 이후에 외래 환자의 재방문이 줄어들고 있다.     
