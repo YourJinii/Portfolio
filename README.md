@@ -25,7 +25,11 @@ Python, RPA, Excel, PowerPoint, Visual Studio, R, JupyterNotebook, Machine Learn
 ## :pushpin: Projects
 ### 1. [KS 연도별 보고서 작성]
 - 
-- 개발 기간 : 2022.8.22 ~ 2022.9.2
+- 개발 기간 : 2022.8.22 ~ 2022.9.2      
+>
+- 기술 스택:             
+>RPA - UiPath Studio
+>
 
 
 ### 2. [디스크 환자 지속 케어]
