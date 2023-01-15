@@ -32,7 +32,7 @@ Python, RPA, Excel, PowerPoint, Visual Studio, R, JupyterNotebook, Machine Learn
 >
                     
                     
-                         
+===============================================================================                    
                         
                              
 ### 2. [디스크 환자 지속 케어]
