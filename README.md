@@ -24,7 +24,7 @@ Python, RPA, Excel, PowerPoint, Visual Studio, R, JupyterNotebook, Machine Learn
 
 ## :pushpin: Projects
 ### 1. [KS 연도별 보고서 작성]
-- 
+- ACME 시스템에서 TAX ID를 조회하여 자료 취합 후 담당자에게 메일 회신
 - 개발 기간 : 2022.8.22 ~ 2022.9.2      
 >
 - 기술 스택:             
