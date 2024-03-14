@@ -6,7 +6,7 @@
 ## :pushpin: Intro
 - 호서대학교 응용통계학과 졸업
 - 알파코 데이터엔지니어 부트 캠프 수료
-- 일이이사 식당 알바 1년 3개월
+- 디바인테크 RPA Brity 1년 2개월
 - <자격증 획득>     
 TOEIC, 빅데이터전문가, 코딩지도사, Microsoft Office PowerPoint 2010, Microsoft Office PowerPoint 2010, 2종 보통 운전면허
 - <보유 기술>    
@@ -17,7 +17,7 @@ Python, RPA, Excel, PowerPoint, Visual Studio, R, JupyterNotebook, Machine Learn
 
 ## :pushpin: Contact
 - 이메일: tyj9606@naver.com
-- 휴대폰: 010-3915-9606
+- 휴대폰: 010-9534-9606
 - 깃헙: https://github.com/YuJinTak/Python_Portfolio
 
 </br>
@@ -43,4 +43,15 @@ Python, RPA, Excel, PowerPoint, Visual Studio, R, JupyterNotebook, Machine Learn
 >  
 - 기술 스택:  
 >Python - JupyterNotebook / Machine Learning
->  
+
+
+==================================================================================
+
+
+### 3. [나라장터 입찰공고]
+- 사전규격, 입찰공고 검색 후 사업명(공고명), 수요기관을 조회하여 담당자에게 메일 회신
+- 개발 기간 : 2023.04.17 ~ 2023.05.05
+- 사업 기간 : 2023.05.06 ~ 2023.12.31
+>
+- 기술 스택:  
+>RPA - Brity RPA Designer
